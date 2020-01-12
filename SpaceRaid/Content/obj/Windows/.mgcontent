@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/mytemp/ohj1/jtuusnas/ht/harjoitustyö/SpaceRaid/Content/alus.png</File>
+    <File>C:/mytemp/ohj1/jtuusnas/ht/harjoitustyö/SpaceRaid/Content/jees.png</File>
+    <File>C:/mytemp/ohj1/jtuusnas/ht/harjoitustyö/SpaceRaid/Content/laser.png</File>
+    <File>C:/mytemp/ohj1/jtuusnas/ht/harjoitustyö/SpaceRaid/Content/Pelitausta.png</File>
+    <File>C:/mytemp/ohj1/jtuusnas/ht/harjoitustyö/SpaceRaid/Content/taustamusiikki.mp3</File>
+    <File>C:/mytemp/ohj1/jtuusnas/ht/harjoitustyö/SpaceRaid/Content/tyhja.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
