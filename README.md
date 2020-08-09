@@ -1,4 +1,3 @@
 # space-raid
 My first project as a university student. Highly influenced by the classic Space Invaders.
-<p><img src="./asd.jpg">
-</p>
+![Test Image 1](asd.jpg)
